@@ -3,3 +3,4 @@
 - A script that changes to user home directory.
 - A script that lists all files in a directory in a long format.
 - A script that lists all files in a directory including hidden files in a long format.
+- A script that list all files with user and group IDs displayed numerically.
