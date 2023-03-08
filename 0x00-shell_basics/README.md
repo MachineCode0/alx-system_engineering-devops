@@ -5,3 +5,4 @@
 - A script that lists all files in a directory including hidden files in a long format.
 - A script that list all files with user and group IDs displayed numerically.
 - A script that create a directory in /tmp/ directory.
+- A script that moves the file betty from /tmp/ directory to /tmp/my_first_directory directory.
