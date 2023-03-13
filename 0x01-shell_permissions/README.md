@@ -7,3 +7,4 @@
 - a script that adds execute permission to the owner of the file hello.
 - a script that adds execute permission to the owner and group of the file hello.
 - a script that adds execute permission on the hello file to all users.
+- a script that adds no permission to the owner, group but all permissions to other users of the file hello.
