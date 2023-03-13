@@ -5,3 +5,4 @@
 - a script that displays the content of the files /etc/passwd and /etc/hosts.
 - a script that display the last 10 lines of /etc/passwd.
 - a script that display the first 10 lines of /etc/passwd.
+- a script that displays the third line of the file iacta.
