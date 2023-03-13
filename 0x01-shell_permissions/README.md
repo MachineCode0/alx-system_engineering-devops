@@ -3,3 +3,4 @@
 - a script that prints the effective username for the current user.
 - a script that prints all the groups the current user is part of.
 - a script that changes the owner of file hello to betty.
+- a script that creates an empty file named hello.
