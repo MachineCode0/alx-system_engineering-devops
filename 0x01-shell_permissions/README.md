@@ -6,4 +6,4 @@
 - a script that creates an empty file named hello.
 - a script that adds execute permission to the owner of the file hello.
 - a script that adds execute permission to the owner and group of the file hello.
-- a script that adds execute command on the hello file to all users.
+- a script that adds execute permission on the hello file to all users.
