@@ -1,1 +1,18 @@
-ls -la
+total 64
+drwxrwxr-x 2 felix-code felix-code 4096 Mar 15 13:31 .
+drwxrwxr-x 6 felix-code felix-code 4096 Mar 13 23:09 ..
+-rwxrw-r-- 1 felix-code felix-code   30 Mar 13 23:10 0-hello_world
+-rwxrw-r-- 1 felix-code felix-code   27 Mar 15 12:26 12-newest_files
+-rwxrw-r-- 1 felix-code felix-code   29 Mar 13 23:21 1-confused_smiley
+-rwxrw-r-- 1 felix-code felix-code   28 Mar 13 23:28 2-hellofile
+-rwxrw-r-- 1 felix-code felix-code   39 Mar 13 23:36 3-twofiles
+-rwxrw-r-- 1 felix-code felix-code   35 Mar 13 23:41 4-lastlines
+-rwxrw-r-- 1 felix-code felix-code   35 Mar 13 23:43 5-firstlines
+-rwxrw-r-- 1 felix-code felix-code   42 Mar 13 23:52 6-third_line
+-rwxrw-r-- 1 felix-code felix-code  101 Mar 15 13:30 7-file
+-rwxrw-r-- 1 felix-code felix-code   36 Mar 15 12:48 8-cwd_state
+-rw-rw-r-- 1 felix-code felix-code   41 Mar 15 13:30 \*\\''"Best
+-rw-rw-r-- 1 felix-code felix-code  744 Mar 13 23:50 iacta
+-rw-rw-r-- 1 felix-code felix-code    0 Mar 15 13:31 ls_cwd_content
+-rw-rw-r-- 1 felix-code felix-code   14 Mar 14 00:02 mukah.txt
+-rw-rw-r-- 1 felix-code felix-code  583 Mar 14 00:46 README.md
